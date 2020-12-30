@@ -1,4 +1,4 @@
-# Code Design
+# Linked Lists
 
 - Implementation of a singly linked list and additional helper methods
 
